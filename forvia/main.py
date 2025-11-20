@@ -8,23 +8,23 @@ st.set_page_config(
 
 #definir paginas
 home_page= st.Page(
-    "Paginas/home.py",
+    "forvia/paginas/home.py",
     title="Home",
     #icon = ":material​/menu:"
 )
 
 projects_page= st.Page(
-    "Paginas/projects.py",
+    "forvia/paginas/projects.py",
     title="Análsis de Projectos"
 )
 
 percentage_page= st.Page(
-    "Paginas/percentage.py",
+    "forvia/paginas/percentage.py",
     title="Análsis de Porcentajes"
 )
 
 mapa_page = st.Page(
-    "Paginas/mapa.py",
+    "forvia/paginas/mapa.py",
     title="Mapas"
 )
 
