@@ -8,7 +8,8 @@ st.set_page_config(
 
 #definir paginas
 home_page= st.Page(
-    "forvia/paginas/home.py",
+    "streamlit/forvia/paginas/home.py",
+#    "forvia/paginas/home.py",
     title="Home",
     #icon = ":material​/menu:"
 )
